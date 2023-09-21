@@ -1,8 +1,4 @@
 # Important imports
-pip install tensorflow
-pip install scikit-image
-pip install numpy
-pip install cython
 
 from app import app
 from flask import request, render_template
